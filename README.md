@@ -1,5 +1,5 @@
 # explaining_session_based_RSs
-This repository contains the source code for Feature Attribution Explanations of Session-based Recommendations.
+This repository contains the source code and the [appendix](https://github.com/simonebbruun/explaining_session_based_RSs/blob/main/ECIR2025_Explaining_SBRSs_appendix.pdf) for Feature Attribution Explanations of Session-based Recommendations.
 
 ## Requirements
 
